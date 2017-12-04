@@ -15,4 +15,4 @@
 ## Inside `style.css` 
 - Use the `position` property along with `top`, `left`, `right`, `bottom` to move the images on the page. Here's a good resource: https://www.w3schools.com/css/css_positioning.asp
 - Make the face look somewhat like this:
-[final product](images/final-image.png)
+![final product](images/final-image.png)
