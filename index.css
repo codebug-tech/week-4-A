@@ -1,0 +1,27 @@
+body {
+  width: 100%;
+}
+
+img {
+  position: absolute;
+  left: 40vw;
+  top: 13vh;
+  display: block;
+  /*border: 1px red solid ;*/
+}
+#face {
+  margin: auto;
+  height: 300px;
+}
+
+#moustauche {
+  position: relative;
+  left: 46vw;
+  top: 26.5vh;
+}
+#glasses {
+  /*height: 00px;*/
+  position: absolute;
+  left:39vw;
+  top: 0vh;
+}
