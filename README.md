@@ -5,7 +5,7 @@
 - `cd` into the correct directory
 - Checkout a branch under your name
 - Open the `week-4-A` folder in sublime
-- Use the command line to an `index.html` file and a `style.css` file
+- Use the command line to add an `index.html` file and a `style.css` file
 
 ## Inside of `index.html`
 - Use a `<link>` tag to link the style in your `style.css` to your html
