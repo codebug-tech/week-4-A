@@ -1,6 +1,7 @@
 # FACE IT! POSITIONING WITH CSS
 
 ##### Setup
+[git commands](https://github.com/codebug-tech/github-commands)
 - Copy the exercise from GitHub
 - `cd` into the correct directory
 - Checkout a branch under your name
