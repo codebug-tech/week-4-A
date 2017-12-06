@@ -1,0 +1,15 @@
+#face {
+position: absolute;
+width: 300px;
+top: 100px;
+}
+#hat {
+  position: absolute;
+  width: 275px;
+}
+#moustache{
+  position: absolute;
+  width: 190px;
+  top: 300px;
+  left:70px;
+}
