@@ -1,0 +1,21 @@
+.facepic {
+	z-index: -1;
+}
+
+.hatpic {
+	width: 160px;
+	left: 58px;
+	top: 10px;
+	position: absolute;
+}
+
+.moustachepic {
+	width: 120px;
+	position: absolute;
+	left: 115px;
+	top: 210px;
+}
+
+body {
+	padding: 5%;
+}
